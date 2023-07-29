@@ -1,0 +1,47 @@
+[
+  {
+    "customerId": "CUST001",
+    "transactionId": "TRX001",
+    "transactionCode": "CODE001",
+    "brand": "BrandA",
+    "amount": 100.50,
+    "description": "Purchase of item XYZ",
+    "transactionType": "CREDIT",
+    "isEcoProduct": false,
+    "alternateProduct": [
+      {
+        "productId": "ALT001",
+        "productName": "Alternate Product 1",
+        "carbonEmission": 0.25,
+        "urlLink": "https://example.com/product1"
+      },
+      {
+        "productId": "ALT002",
+        "productName": "Alternate Product 2",
+        "carbonEmission": 0.15,
+        "urlLink": "https://example.com/product2"
+      }
+    ],
+    "carbonEmission": 0.5,
+    "currencyCode": "USD",
+    "category": "Electronics",
+    "date": "2023-07-28",
+    "datetime": "2023-07-28T10:30:00"
+  },
+  {
+    "customerId": "CUST002",
+    "transactionId": "TRX002",
+    "transactionCode": "CODE002",
+    "brand": "BrandB",
+    "amount": 50.25,
+    "description": "Purchase of item ABC",
+    "transactionType": "DEBIT",
+    "isEcoProduct": true,
+    "alternateProduct": [],
+    "carbonEmission": 0.1,
+    "currencyCode": "EUR",
+    "category": "Groceries",
+    "date": "2023-07-29",
+    "datetime": "2023-07-29T14:45:30"
+  }
+]
