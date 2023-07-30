@@ -31,6 +31,8 @@ public class AccountService {
 
         if (accounts != null) {
             for (Account account : accounts) {
+                if(account.getNickname().contains("{") || account.getNickname().contains("="))
+                    continue;
                 AccountDTO accountDTO = new AccountDTO(account.getNickname(), account.getAccountId(),account.getAccountType(),account.getAccountSubType(),account.getDescription(),authorizationCode);
                 accountDTOList.add(accountDTO);
             }
