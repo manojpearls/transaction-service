@@ -7,6 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
+import java.io.IOException;
 import java.util.List;
 
 @RestController
@@ -20,8 +21,9 @@ public class TransactionController {
     HttpServletRequest httpServletRequest;
 
     @GetMapping("/transactions/{accountId}")
-    public List<TransactionDTO> getAllTransactions(@PathVariable String accountId) {
-        return transactionService.getAllTransaction(accountId,httpServletRequest);
+    public List<TransactionDTO> getAllTransactions(@PathVariable String accountId) throws IOException {
+      //  return transactionService.getAllTransaction(accountId,httpServletRequest);
+        return transactionService.getAllTransaction();
     }
 
 

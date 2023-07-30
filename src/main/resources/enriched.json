@@ -1,0 +1,654 @@
+{
+	"data": [{
+		"transactionBookedTimestamp": "2023-06-30T00:00:00Z",
+		"transactionId": "54589564",
+		"accountId": "450000_10000000",
+		"amount": 76.73,
+		"transactionType": "CREDIT",
+		"transactionCode": "BAC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "AKZO NOBEL CPS 00",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 30033,
+			"merchantBrandName": "AkzoNobel",
+			"merchantCategory1Name": "Income",
+			"merchantCategory2Name": "Pension",
+			"merchantCategory3Name": "Private Pension",
+			"fcaCode": "1001",
+			"fcaCategory": "Regular Income"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Rathbone Ethical Corporate Bond",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Vanguard ESG Developed World All Cap Equity Index",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Aegon Ethical Equity",
+				"carbonEmission": 3.4
+			}
+		],
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-30T00:00:00Z",
+		"transactionId": "78070196",
+		"accountId": "450000_10000000",
+		"amount": -61.32,
+		"transactionType": "DEBIT",
+		"transactionCode": "POS",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "5655 30JUN23       ZARA INTERNET PORTUGAL      ARTEIXO ES",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 5137,
+			"merchantBrandName": "Zara",
+			"merchantCategory1Name": "Shopping",
+			"merchantCategory2Name": "Clothing",
+			"fcaCode": "2003",
+			"fcaCategory": "Basic Quality of Living"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Patagonia",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Reformation",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Quince",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 3.053,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-30T00:00:00Z",
+		"transactionId": "54589564",
+		"accountId": "450000_10000000",
+		"amount": 76.73,
+		"transactionType": "CREDIT",
+		"transactionCode": "BAC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "Rathbone Ethical Corporate Bond",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 30033,
+			"merchantBrandName": "AkzoNobel",
+			"merchantCategory1Name": "Income",
+			"merchantCategory2Name": "Pension",
+			"merchantCategory3Name": "Private Pension",
+			"fcaCode": "1001",
+			"fcaCategory": "Regular Income"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Rathbone Ethical Corporate Bond",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Vanguard ESG Developed World All Cap Equity Index",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Aegon Ethical Equity",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 2,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-30T00:00:00Z",
+		"transactionId": "85095129",
+		"accountId": "450000_10000000",
+		"amount": -92.13,
+		"transactionType": "DEBIT",
+		"transactionCode": "DPC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "P2PS LTD SAFGD RPYMT     ZOPA LTD RE BORROW SAFGD RPYMT",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20098,
+			"merchantCategory1Name": "Finance",
+			"merchantCategory2Name": "Transfer/Payment",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "BNP Paribas Energy Transition",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Pictet Clean Energy",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Greencoat Wind",
+				"carbonEmission": 3.4
+			}
+		],
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-30T00:00:00Z",
+		"transactionId": "87267443",
+		"accountId": "450000_10000000",
+		"amount": -53.45,
+		"transactionType": "DEBIT",
+		"transactionCode": "POS",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "5655 30JUN23       BRITISH A         1252116843        LONDON GB",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 4511,
+			"merchantBrandName": "British Airways",
+			"merchantCategory1Name": "Travel",
+			"merchantCategory2Name": "Airlines",
+			"merchantCategory3Name": "Commercial",
+			"fcaCode": "2004",
+			"fcaCategory": "Discretionary Spending"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Alaska Airlines",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Xiamen Airlines",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Cathay Pacific",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 47.816,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-30T00:00:00Z",
+		"transactionId": "96090070",
+		"accountId": "450000_10000000",
+		"amount": -87.86,
+		"transactionType": "DEBIT",
+		"transactionCode": "D/D",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "BULB ENERGY",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20041,
+			"merchantBrandName": "Bulb Energy",
+			"merchantCategory1Name": "Bills",
+			"merchantCategory2Name": "Utilities",
+			"merchantCategory3Name": "Gas & Electricity",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Eco LED Bulb",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Solar Power Bulb",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Green LED",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 364.636,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-29T00:00:00Z",
+		"transactionId": "33772753",
+		"accountId": "450000_10000000",
+		"amount": 76.73,
+		"transactionType": "CREDIT",
+		"transactionCode": "BAC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "AKZO NOBEL CPS 00",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 30033,
+			"merchantBrandName": "AkzoNobel",
+			"merchantCategory1Name": "Income",
+			"merchantCategory2Name": "Pension",
+			"merchantCategory3Name": "Private Pension",
+			"fcaCode": "1001",
+			"fcaCategory": "Regular Income"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Rathbone Ethical Corporate Bond",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Vanguard ESG Developed World All Cap Equity Index",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Aegon Ethical Equity",
+				"carbonEmission": 3.4
+			}
+		],
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-29T00:00:00Z",
+		"transactionId": "34249949",
+		"accountId": "450000_10000000",
+		"amount": -53.45,
+		"transactionType": "DEBIT",
+		"transactionCode": "POS",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "5655 29JUN23       BRITISH A         1252116843        LONDON GB",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 4511,
+			"merchantBrandName": "British Airways",
+			"merchantCategory1Name": "Travel",
+			"merchantCategory2Name": "Airlines",
+			"merchantCategory3Name": "Commercial",
+			"fcaCode": "2004",
+			"fcaCategory": "Discretionary Spending"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Alaska Airlines",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Xiamen Airlines",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Cathay Pacific",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 2.816,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-29T00:00:00Z",
+		"transactionId": "34717879",
+		"accountId": "450000_10000000",
+		"amount": -87.86,
+		"transactionType": "DEBIT",
+		"transactionCode": "D/D",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "BULB ENERGY",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20041,
+			"merchantBrandName": "Bulb Energy",
+			"merchantCategory1Name": "Bills",
+			"merchantCategory2Name": "Utilities",
+			"merchantCategory3Name": "Gas & Electricity",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Eco LED Bulb",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Solar Power Bulb",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Green LED",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 364.636,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-29T00:00:00Z",
+		"transactionId": "44857137",
+		"accountId": "450000_10000000",
+		"amount": -92.13,
+		"transactionType": "DEBIT",
+		"transactionCode": "DPC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "P2PS LTD SAFGD RPYMT     ZOPA LTD RE BORROW SAFGD RPYMT",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20098,
+			"merchantCategory1Name": "Finance",
+			"merchantCategory2Name": "Transfer/Payment",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "BNP Paribas Energy Transition",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Pictet Clean Energy",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Greencoat Wind",
+				"carbonEmission": 3.4
+			}
+		],
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-29T00:00:00Z",
+		"transactionId": "74812306",
+		"accountId": "450000_10000000",
+		"amount": -61.32,
+		"transactionType": "DEBIT",
+		"transactionCode": "POS",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "5655 29JUN23       ZARA INTERNET PORTUGAL      ARTEIXO ES",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 5137,
+			"merchantBrandName": "Zara",
+			"merchantCategory1Name": "Shopping",
+			"merchantCategory2Name": "Clothing",
+			"fcaCode": "2003",
+			"fcaCategory": "Basic Quality of Living"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Patagonia",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Reformation",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Quince",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 17.053,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-28T00:00:00Z",
+		"transactionId": "45638040",
+		"accountId": "450000_10000000",
+		"amount": 76.73,
+		"transactionType": "CREDIT",
+		"transactionCode": "BAC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "AKZO NOBEL CPS 00",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 30033,
+			"merchantBrandName": "AkzoNobel",
+			"merchantCategory1Name": "Income",
+			"merchantCategory2Name": "Pension",
+			"merchantCategory3Name": "Private Pension",
+			"fcaCode": "1001",
+			"fcaCategory": "Regular Income"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Rathbone Ethical Corporate Bond",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Vanguard ESG Developed World All Cap Equity Index",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Aegon Ethical Equity",
+				"carbonEmission": 3.4
+			}
+		],
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-28T00:00:00Z",
+		"transactionId": "47475044",
+		"accountId": "450000_10000000",
+		"amount": -53.45,
+		"transactionType": "DEBIT",
+		"transactionCode": "POS",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "5655 28JUN23       BRITISH A         1252116843        LONDON GB",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 4511,
+			"merchantBrandName": "British Airways",
+			"merchantCategory1Name": "Travel",
+			"merchantCategory2Name": "Airlines",
+			"merchantCategory3Name": "Commercial",
+			"fcaCode": "2004",
+			"fcaCategory": "Discretionary Spending"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Alaska Airlines",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Xiamen Airlines",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Cathay Pacific",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 1.816,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-28T00:00:00Z",
+		"transactionId": "65267168",
+		"accountId": "450000_10000000",
+		"amount": -87.86,
+		"transactionType": "DEBIT",
+		"transactionCode": "D/D",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "BULB ENERGY",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20041,
+			"merchantBrandName": "Bulb Energy",
+			"merchantCategory1Name": "Bills",
+			"merchantCategory2Name": "Utilities",
+			"merchantCategory3Name": "Gas & Electricity",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Eco LED Bulb",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Solar Power Bulb",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Green LED",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 364.636,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-28T00:00:00Z",
+		"transactionId": "70351010",
+		"accountId": "450000_10000000",
+		"amount": -61.32,
+		"transactionType": "DEBIT",
+		"transactionCode": "POS",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "5655 28JUN23       ZARA INTERNET PORTUGAL      ARTEIXO ES",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 5137,
+			"merchantBrandName": "Zara",
+			"merchantCategory1Name": "Shopping",
+			"merchantCategory2Name": "Clothing",
+			"fcaCode": "2003",
+			"fcaCategory": "Basic Quality of Living"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Patagonia",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Reformation",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Quince",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 17.053,
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-28T00:00:00Z",
+		"transactionId": "86937744",
+		"accountId": "450000_10000000",
+		"amount": -92.13,
+		"transactionType": "DEBIT",
+		"transactionCode": "DPC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "P2PS LTD SAFGD RPYMT     ZOPA LTD RE BORROW SAFGD RPYMT",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20098,
+			"merchantCategory1Name": "Finance",
+			"merchantCategory2Name": "Transfer/Payment",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "BNP Paribas Energy Transition",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Pictet Clean Energy",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Greencoat Wind",
+				"carbonEmission": 3.4
+			}
+		],
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-27T00:00:00Z",
+		"transactionId": "18993810",
+		"accountId": "450000_10000000",
+		"amount": -92.13,
+		"transactionType": "DEBIT",
+		"transactionCode": "DPC",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "P2PS LTD SAFGD RPYMT     ZOPA LTD RE BORROW SAFGD RPYMT",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20098,
+			"merchantCategory1Name": "Finance",
+			"merchantCategory2Name": "Transfer/Payment",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "BNP Paribas Energy Transition",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Pictet Clean Energy",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Greencoat Wind",
+				"carbonEmission": 3.4
+			}
+		],
+		"carbonModelVersion": "1.0"
+	},
+	{
+		"transactionBookedTimestamp": "2023-06-27T00:00:00Z",
+		"transactionId": "29653505",
+		"accountId": "450000_10000000",
+		"amount": -87.86,
+		"transactionType": "DEBIT",
+		"transactionCode": "D/D",
+		"brand": "NWB",
+		"transactionStatus": "booked",
+		"transactionNarrative": "BULB ENERGY",
+		"currencyCode": "GBP",
+		"category": {
+			"mcc": 20041,
+			"merchantBrandName": "Bulb Energy",
+			"merchantCategory1Name": "Bills",
+			"merchantCategory2Name": "Utilities",
+			"merchantCategory3Name": "Gas & Electricity",
+			"fcaCode": "2002",
+			"fcaCategory": "Basic Essential Expenditure"
+		},
+		"alternateProduct": [
+			{
+				"productName": "Eco LED Bulb",
+				"carbonEmission": 2.4
+			},
+			{
+				"productName": "Solar Power Bulb",
+				"carbonEmission": 1.4
+			},
+			{
+				"productName": "Green LED",
+				"carbonEmission": 3.4
+			}
+		],
+		"totalKgCo2e": 364.636,
+		"carbonModelVersion": "1.0"
+	}],
+	"meta": {
+		"count": 501,
+		"correlationId": "d54d4a7b-1a81-49ac-816b-60d129d3c03a"
+	}
+}
